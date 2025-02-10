@@ -444,6 +444,14 @@ section {
   color: var(--color-grey-2);
 }
 
+.Certificate{
+  color: #8762ec;
+  transition: ease 0.4s;
+}
+
+.Certificate:hover{
+  color: #305fe0;
+}
 .port-text {
   padding: 2rem 0;
   text-align: center;
